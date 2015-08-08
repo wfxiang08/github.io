@@ -1,0 +1,11 @@
+# Site settings
+title: wfxiang08's Notes
+email: wfxiang08@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  wfxiang08的工作&学习总结
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wfxiang08.github.io" # the base hostname & protocol for your site
+github_username:  wfxiang08
+
+# Build settings
+markdown: kramdown
